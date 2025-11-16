@@ -1,0 +1,50 @@
+\begin{thebibliography}{999}
+
+\bibitem[Author~1(2008)]{ref-journal}
+Author~1, T.
+\newblock The title of the cited article.
+\newblock {\em Journal Abbreviation} {\bf 2008}, {\em 10},~142--149.
+
+\bibitem[Author~2(2007)]{ref-book1}
+Author~2, L.
+\newblock The title of the cited contribution. In {\em The Book Title};
+  Editor~1, F.; Editor~2, A., Eds.; Publishing House: City, Country,  2007; pp.
+  32--58.
+
+\bibitem[Author~1 and Author~2(2008)]{ref-book2}
+Author~1, A.; Author~2, B.
+\newblock {\em Book Title}, 3rd ed.; Publisher: Publisher Location, Country,
+  2008; pp. 154--196.
+
+\bibitem[Author~1 and Author~2(2024)]{ref-unpublish}
+Author~1, A.; Author~2, C.
+\newblock Title of Unpublished Work.
+\newblock Abbreviated Journal Name 2024, {phrase indicating stage of
+  publication (submitted; accepted; in press)}.
+
+\bibitem[Author~1 and Author~2(2012)]{ref-communication}
+Author~1, A.B.~(University, C.S.C.; Author~2, C.~(Institute, C.S.C.
+\newblock Personal communication.
+\newblock Personal communication,  2012.
+
+\bibitem[Author~1 \em{et~al.}(Year)Author~1, Author~2, and
+  Author~3]{ref-proceeding}
+Author~1, A.; Author~2, C.; Author~3, E.
+\newblock Title of presentation.
+\newblock  Proceedings of the Name of the Conference; ,  Year; Conference
+  Proceedings.
+\newblock Date of Conference (Day Month Year); Abstract Number (optional),
+  Pagination (optional).
+
+\bibitem[Author~1(Date of Completion)]{ref-thesis}
+Author~1, A.
+\newblock Title of Thesis.
+\newblock Level of thesis, Degree-Granting University, Location of University,
+  Date of Completion.
+
+\bibitem[ref()]{ref-url}
+Title of Site.
+\newblock \url{URL}.
+\newblock (accessed on Day Month Year).
+
+\end{thebibliography}
